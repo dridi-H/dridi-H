@@ -1,49 +1,164 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=180&section=header&text=Mohamed%20Amine%20Dridi&fontColor=ffffff&fontSize=44&animation=fadeIn" width="100%"/>
+ 
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FF9C&center=true&vCenter=true&width=640&lines=Network+Security+%26+SOC+Analyst+(Junior);Detect+%E2%86%92+Triage+%E2%86%92+Respond+%E2%86%92+Document;Wazuh+%7C+TheHive+%7C+Cortex+%7C+Sysmon+%7C+Kali" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=170&section=header&text=Mohamed%20Amine%20Dridi&fontSize=42&fontColor=E2E8F0&fontAlignY=45&desc=Network%20Security%20%7C%20Embedded%20Communications&descSize=17&descColor=38BDF8&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-CCNA%20%7C%20CyberOps-in%20progress-00d4ff?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-SIEM%2FXDR-005571?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tunisia-0d1117?style=for-the-badge&labelColor=ff2e63"/>
-</p>
+<br/>
 
-```bash
-$ whoami
-mohamed-amine-dridi
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Network+Security+%26+Embedded+Systems;Secure+Networks+%7C+IoT+%7C+Communication+Protocols;Learning%2C+Building+%26+Experimenting" />
 
-$ cat profile.txt
-role     : Master's student, Network Security & Hardware Communications (ISTIC Borj Cedria)
-focus    : SOC operations, network security, applied AI/ML, IoT
-building : SOC home lab (Wazuh, TheHive, Cortex, Sysmon, Kali)
-learning : Cisco CCNA 1 & 2, CyberOps Associate, Network Security
-status   : seeking a PFE internship in cybersecurity
-```
+<br/>
 
-## 🛡️ Pipeline
-`Telemetry (Sysmon) → Detection (Wazuh) → Enrichment (Cortex) → Case (TheHive) → Response → Tuning`
+<img src="https://img.shields.io/badge/Focus-Network%20Security-2563EB?style=for-the-badge&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded-Communications-0891B2?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Tunisia-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-## 🔬 Projects
-| Project | What it proves |
-|---|---|
-| **[SOC Home Lab](https://github.com/dridi-H/soc-home-lab)** *(later)* | Detection rules, alert triage, false-positive tuning, attack simulation |
-| **[PFZ-GAIA-COMPETITION](https://github.com/dridi-H/PFZ-GAIA-COMPETITION)** | Ensemble deep learning, F1 0.717 / precision 0.767 |
-| **IoT Water Monitoring Buoy** *(later)* | STM32, LoRa/LoRaWAN, MQTT, Grafana |
+</div>
 
-## ⚙️ Stack
+---
+
+## 👨‍💻 About Me
+
+I'm a Master's student in **Network Security and Hardware Communications** at ISTIC Borj Cedria, Tunisia.
+
+My interests revolve around designing secure network infrastructures, analyzing network threats, and developing embedded systems that communicate reliably.
+
+I'm particularly interested in the intersection of **network security, embedded communications, IoT, and applied AI**.
+
+- 🔐 Exploring network security, threat detection, and SOC operations.
+- 🌐 Working with network protocols and infrastructure.
+- 📡 Developing embedded and IoT communication systems.
+- 🤖 Exploring AI/ML applications in security and intelligent systems.
+- 🎯 Currently seeking a **PFE internship in Network Security or Embedded Systems**.
+
+---
+
+## 🛡️ Network Security
+
+**Security Operations & Threat Detection**
+
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,python,docker&theme=dark" />
+
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,aws,tensorflow,git,wireshark&theme=dark"/>
+<img src="https://img.shields.io/badge/Wazuh-SIEM%20%2F%20XDR-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/TheHive-Incident%20Response-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cortex-Threat%20Analysis-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sysmon-Endpoint%20Monitoring-334155?style=flat-square"/>
+<img src="https://img.shields.io/badge/Suricata-NIDS%20%2F%20IPS-EF4444?style=flat-square"/>
 </p>
 
-## 📊 Activity *(later, after a few weeks of commits)*
+**Networking & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=linux,wireshark,bash,docker&theme=dark" />
+
+- TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH
+- Network traffic analysis and packet inspection
+- Network monitoring and troubleshooting
+- Firewall concepts and network segmentation
+- IDS/IPS and intrusion detection
+- Linux administration
+
+---
+
+## 📡 Embedded Systems & Communications
+
+**Embedded Development**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,platformio&theme=dark" />
+
+**Communication Technologies**
+
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dridi-H&show_icons=true&hide_border=false&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&icon_color=00d4ff&border_color=00ff9c"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=dridi-H&background=0D1117&ring=00FF9C&fire=FF2E63&currStreakLabel=00D4FF&border=00FF9C"/>
+<img src="https://img.shields.io/badge/STM32-Embedded%20Development-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/ESP32-Microcontrollers-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/LoRaWAN-Wireless%20Communication-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/MQTT-IoT%20Messaging-0D9488?style=flat-square"/>
+<img src="https://img.shields.io/badge/I2C%20%2F%20UART%20%2F%20SPI-Serial%20Protocols-475569?style=flat-square"/>
 </p>
 
-## 📫 Contact
-[LinkedIn](https://linkedin.com/in/mohamedaminedridi) · mohamedaminedridi211@gmail.com
+- STM32 and ESP32 development
+- LoRa / LoRaWAN communication
+- MQTT and IoT messaging
+- Sensor integration and data acquisition
+- UART, SPI, and I2C protocols
+- Embedded Linux fundamentals
+- IoT monitoring and telemetry
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,100:0d1117&height=100&section=footer" width="100%"/>
+---
+
+## 🤖 AI & Machine Learning
+
+**Development & ML Frameworks**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
+
+- Python for data processing and machine learning
+- Deep Learning and Neural Networks
+- CNN and 3D-CNN architectures
+- Computer Vision
+- Model evaluation and performance analysis
+- AI applications for IoT and intelligent monitoring
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Domain | Technologies |
+|---|---|---|
+| [SOC Home Lab](https://github.com/dridi-H/soc-home-lab) | Network Security | Wazuh, TheHive, Cortex, Sysmon |
+| [PFZ GAIA Competition](https://github.com/dridi-H/PFZ-GAIA-COMPETITION) | AI / Deep Learning | Python, TensorFlow, 3D-CNN |
+| IoT Water Monitoring Buoy | Embedded & IoT | STM32, LoRaWAN, MQTT, Grafana |
+
+---
+
+## ⚙️ Tools & Technologies
+
+<div align="center">
+
+**Security & Networking**
+
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,wireshark,docker&theme=dark"/>
+
+<br/><br/>
+
+**Embedded & Communications**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,platformio&theme=dark"/>
+
+<br/><br/>
+
+**AI & Development**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,vscode&theme=dark"/>
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- Cisco CCNA 1 & 2
+- Cisco CyberOps Associate
+- Advanced Network Security
+- Embedded Communication Protocols
+- Security Monitoring and Incident Response
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mohamedaminedridi">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mohamedaminedridi211@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1220&height=100&section=footer" width="100%"/>
+
+</div>
