@@ -59,7 +59,7 @@ I'm particularly interested in the intersection of **network security, embedded 
 ### Networking & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,cisco,docker,bash,ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kali,docker,bash&theme=dark" />
 </p>
 
 **Networking Fundamentals**
