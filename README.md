@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Master's student in **Network Security and Hardware Communications** at ISTIC Borj Cedria, Tunisia.
+I'm a Master's student in **Network Security and Embedded Communications** at ISTIC Borj Cedria, Tunisia.
 
 My interests revolve around designing secure network infrastructures, analyzing network threats, and developing embedded systems that communicate reliably.
 
@@ -35,28 +35,41 @@ I'm particularly interested in the intersection of **network security, embedded 
 
 ## 🛡️ Network Security
 
-**Security Operations & Threat Detection**
+### Security Operations & Threat Detection
 
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,python,docker&theme=dark" />
+**Core Tools**
 
-<p>
-<img src="https://img.shields.io/badge/Wazuh-SIEM%20%2F%20XDR-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/TheHive-Incident%20Response-0891B2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cortex-Threat%20Analysis-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Sysmon-Endpoint%20Monitoring-334155?style=flat-square"/>
-<img src="https://img.shields.io/badge/Suricata-NIDS%20%2F%20IPS-EF4444?style=flat-square"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,python,docker&theme=dark" />
 </p>
 
-**Networking & Infrastructure**
+**Security Technologies**
 
-<img src="https://skillicons.dev/icons?i=linux,wireshark,bash,docker&theme=dark" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Wazuh-SIEM%20%26%20XDR-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TheHive-Incident%20Response-E6A23C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cortex-Threat%20Analysis-7C3AED?style=for-the-badge" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Suricata-IDS%20%2F%20IPS-EF4444?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sysmon-Endpoint%20Monitoring-475569?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-Security%20Testing-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+</p>
+
+### Networking & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,wireshark,docker&theme=dark" />
+</p>
+
+**Networking Fundamentals**
 
 - TCP/IP, DNS, DHCP, HTTP/HTTPS, SSH
 - Network traffic analysis and packet inspection
 - Network monitoring and troubleshooting
 - Firewall concepts and network segmentation
 - IDS/IPS and intrusion detection
-- Linux administration
+- Linux system administration
 
 ---
 
@@ -106,8 +119,7 @@ I'm particularly interested in the intersection of **network security, embedded 
 | Project | Domain | Technologies |
 |---|---|---|
 | [SOC Home Lab](https://github.com/dridi-H/soc-home-lab) | Network Security | Wazuh, TheHive, Cortex, Sysmon |
-| [PFZ GAIA Competition](https://github.com/dridi-H/PFZ-GAIA-COMPETITION) | AI / Deep Learning | Python, TensorFlow, 3D-CNN |
-| IoT Water Monitoring Buoy | Embedded & IoT | STM32, LoRaWAN, MQTT, Grafana |
+| [PFZ GAIA Competition](https://github.com/dridi-H/PFZ-GAIA-COMPETITION) | AI / Deep Learning / Embedded & IoT | Python, TensorFlow, 3D-CNN / STM32, LoRaWAN, MQTT, Grafana |
 
 ---
 
