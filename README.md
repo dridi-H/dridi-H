@@ -129,7 +129,7 @@ I'm particularly interested in the intersection of **network security, embedded 
 
 **Security & Networking**
 
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,wireshark,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker&theme=dark"/>
 
 <br/><br/>
 
